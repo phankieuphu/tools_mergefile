@@ -1,0 +1,7 @@
+        modified:   gameserver/gameserver1/script/event/minievent/alphatest.lua
+        modified:   gameserver/gameserver1/script/event/minievent/newplayercard.lua
+        modified:   gameserver/gameserver1/setting/shop/goods.txt
+		    gameserver/gameserver1/script/player/player.lua
+		gameserver/gameserver1/script/lib/cardaard.lua
+			gameserver/gameserver1/script/lib/cardaard.lua
+		

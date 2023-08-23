@@ -1,0 +1,3 @@
+client/setting/ibshop/warelist.txt
+client/setting/item/001/equip/general/horse.txt
+shared/script/timeframe/timeframe.lua

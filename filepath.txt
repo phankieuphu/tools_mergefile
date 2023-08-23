@@ -1,0 +1,3 @@
+client/setting/ibshop
+client/setting/item/001/equip/general
+shared/script/timeframe
